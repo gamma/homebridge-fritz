@@ -35,6 +35,9 @@
     "fritzapi": "^0.10.3",
     "valid-url": "^1.0.9"
   },
+  "optionalDependencies": {
+    "fakegato-history": "^0.5.1"
+  },
   "devDependencies": {
     "jshint": "^2.9.2"
   }
